@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: School Project Portfolio
+author: Kenneth Baierl
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  A website to show all of the school projects that I have made while attending Chapman University
+baseurl: "kennethbaierl.github.io"
 
 plugins:
   - jekyll-feed
