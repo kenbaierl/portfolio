@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: School Project 1
-banner_subtitle: [School project 1 description]
+banner_subtitle: School project 1 description
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
